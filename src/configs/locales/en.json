@@ -1,0 +1,22 @@
+{
+  "general": {
+    "title": "todos"
+  },
+  "menu": {
+    "countItem": "items left",
+    "filter": {
+      "all": "All",
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "clear": "Clear completed"
+  },
+  "folder": {
+    "add": "Add new folder",
+    "empty": "Add new folder right now"
+  },
+  "task": {
+    "add": "Add new task",
+    "empty": "Add new task right now"
+  }
+}
