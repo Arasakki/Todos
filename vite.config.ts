@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Todos/",
+  base: "/Todos",
   resolve: {
     alias: {
       hooks: path.resolve(__dirname, "src/hooks"),
