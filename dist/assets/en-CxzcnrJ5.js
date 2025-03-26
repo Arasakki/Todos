@@ -1,0 +1,1 @@
+const e={title:"todos"},t={countItem:"items left",filter:{all:"All",active:"Active",completed:"Completed"},clear:"Clear completed"},d={add:"Add new folder",empty:"Add new folder right now"},l={add:"Add new task",empty:"Add new task right now"},o={general:e,menu:t,folder:d,task:l};export{o as default,d as folder,e as general,t as menu,l as task};
